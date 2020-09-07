@@ -1,6 +1,6 @@
 # proyek2
 
-## Nama Kelompok :
+## Kelompok 1 :
 
 ### - Denny Nur Ramadhan
 
