@@ -7,3 +7,4 @@
 # - Ela Widya Lestari
 
 # - Ivanarhea Endagavrila Clareta
+# - Muhammad Afandi
